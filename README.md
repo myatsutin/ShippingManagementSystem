@@ -1,2 +1,2 @@
-# Web Application for Shipping Management System
+# Web-based Shipping Mangement System Application by Agilitics Singapore 
 
